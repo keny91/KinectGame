@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Experiment.CSharp.Plugins", "Kinect Experiment.CSharp.Plugins.csproj", "{B110F90A-B2FF-3332-DAFA-0FC4AAB0AA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Experiment.CSharp", "Kinect Experiment.CSharp.csproj", "{0AA57B05-FF15-B3E3-BB6D-76472B37A067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Experiment.CSharp.Editor.Plugins", "Kinect Experiment.CSharp.Editor.Plugins.csproj", "{889B7C23-5A39-6706-E7B6-30EC360E419F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Experiment.CSharp.Editor", "Kinect Experiment.CSharp.Editor.csproj", "{9463FF4F-9350-85AE-1B21-BF495593D4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B110F90A-B2FF-3332-DAFA-0FC4AAB0AA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B110F90A-B2FF-3332-DAFA-0FC4AAB0AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B110F90A-B2FF-3332-DAFA-0FC4AAB0AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B110F90A-B2FF-3332-DAFA-0FC4AAB0AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA57B05-FF15-B3E3-BB6D-76472B37A067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA57B05-FF15-B3E3-BB6D-76472B37A067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA57B05-FF15-B3E3-BB6D-76472B37A067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA57B05-FF15-B3E3-BB6D-76472B37A067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889B7C23-5A39-6706-E7B6-30EC360E419F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889B7C23-5A39-6706-E7B6-30EC360E419F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889B7C23-5A39-6706-E7B6-30EC360E419F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889B7C23-5A39-6706-E7B6-30EC360E419F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9463FF4F-9350-85AE-1B21-BF495593D4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9463FF4F-9350-85AE-1B21-BF495593D4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9463FF4F-9350-85AE-1B21-BF495593D4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9463FF4F-9350-85AE-1B21-BF495593D4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
